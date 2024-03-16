@@ -46,6 +46,7 @@ h1 {
 .about-paragraph {
   color: gray;
 }
+
 @media (max-width: 900px) {
   .hero {
     margin-bottom: 0;
