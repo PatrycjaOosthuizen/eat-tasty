@@ -22,6 +22,9 @@ h6 {
 h1 {
   font-size: 80px;
 }
+.link:visited {
+  color: #895df1;
+}
 .hero {
   background: var(--branding-color);
   text-align: center;
@@ -52,6 +55,10 @@ h1 {
   height: 20vw;
   object-fit: cover;
 }
+.fig-ricotta {
+  width: 520px;
+}
+
 @media (max-width: 900px) {
   .hero {
     margin-bottom: 0;
@@ -62,10 +69,16 @@ h1 {
   }
   .card-img-top {
     width: 100%;
-    height: 50vw;
+    height: 80vw;
     object-fit: cover;
   }
   .card {
     text-align: center;
+    flex: 1 0 auto;
+  }
+  .col-lg-4 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
   }
 }
