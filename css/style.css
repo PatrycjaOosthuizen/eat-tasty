@@ -58,8 +58,11 @@ h1 {
 .fig-ricotta {
   width: 520px;
 }
+.banana-date {
+  width: 500px;
+}
 
-@media (max-width: 900px) {
+@media (max-width: 800px) {
   .hero {
     margin-bottom: 0;
     padding: 80px 20px;
