@@ -9,7 +9,7 @@ body {
   font-family: var(--default-font-family);
 }
 .logo {
-  max-width: 80px;
+  max-width: 65px;
   border-radius: 50%;
 }
 .nav-link:hover {
@@ -70,6 +70,20 @@ h1 {
 .mail {
   max-width: 160px;
   margin-bottom: 40px;
+}
+.links a {
+  margin: 0 20px;
+  color: var(--primary-color);
+  font-size: 28px;
+}
+.po-code-logo {
+  max-width: 30px;
+}
+.coded-by {
+  font-size: small;
+}
+h4 {
+  margin-bottom: 75px;
 }
 
 @media (max-width: 800px) {
