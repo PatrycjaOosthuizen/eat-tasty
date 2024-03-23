@@ -67,6 +67,10 @@ h1 {
 .banana-date {
   width: 500px;
 }
+.mail {
+  max-width: 160px;
+  margin-bottom: 40px;
+}
 
 @media (max-width: 800px) {
   .logo {
@@ -79,6 +83,13 @@ h1 {
   h1 {
     font-size: 60px;
   }
+  h2.about {
+    font-size: 22px;
+  }
+  h4.contact {
+    font-size: 15px;
+  }
+
   .card-img-top {
     width: 100%;
     height: 80vw;
@@ -92,5 +103,9 @@ h1 {
     display: flex;
     justify-content: center;
     align-content: center;
+  }
+  .mail {
+    max-width: 80px;
+    margin-bottom: 20px;
   }
 }
