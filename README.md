@@ -1,6 +1,6 @@
-# SheCodes Responsive Project
+# Eat Tasty Meal - Responsive Project
 
-Multiple page Responsive project, contain:
+Multiple page Responsive project created to practise my coding skills, contain:
 
 * HTML
 * CSS
