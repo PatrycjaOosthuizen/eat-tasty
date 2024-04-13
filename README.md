@@ -1,4 +1,4 @@
-# SheCodes Responsive Final Project
+# SheCodes Responsive Project
 
 Multiple page Responsive project, contain:
 
